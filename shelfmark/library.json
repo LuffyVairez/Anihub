@@ -1,0 +1,23 @@
+{
+  "manga": [
+    {
+      "kitsuId": "REPLACE_ME",
+      "title": "My Manga",
+      "folder": "library/my-manga",
+      "chapters": [
+        { "number": 1, "title": "Chapter 1", "folder": "chapter-1", "pages": 20, "ext": "jpg" },
+        { "number": 2, "title": "Chapter 2", "folder": "chapter-2", "pages": 18, "ext": "jpg" }
+      ]
+    }
+  ],
+  "anime": [
+    {
+      "kitsuId": "REPLACE_ME",
+      "title": "My Show",
+      "folder": "library/my-show",
+      "episodes": [
+        { "number": 1, "title": "Episode 1", "file": "episode-1.mp4" }
+      ]
+    }
+  ]
+}
